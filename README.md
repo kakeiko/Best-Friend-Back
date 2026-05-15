@@ -120,5 +120,5 @@ http://127.0.0.1:8000/
 ## 📡 Endpoint
 ### Buscar todas as raças
 ```html
-GET /dogs/
+GET /breed/
 ```

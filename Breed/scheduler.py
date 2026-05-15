@@ -7,7 +7,7 @@ def start():
     scheduler.add_job(
         uptadeDogBreed,
         'interval',
-        hours=24
+        seconds=10
     )
 
     scheduler.start()
